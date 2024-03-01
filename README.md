@@ -1,2 +1,2 @@
 # PromptReward
-![GitHub Logo](/assets/model.png)
+![GitHub Logo](LLMR-main/assets/model.png)
